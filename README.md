@@ -111,12 +111,8 @@ Specify a license for this repository (e.g., MIT). Add a `LICENSE` file at the r
 
 ---
 
-## Contact / Author
 
-If you have questions, changes, or want help improving the report, add your contact information here:
 
-* **Author:** *Your Name*
-* **Email:** *[your.email@example.com](mailto:your.email@example.com)*
 
 ---
 
